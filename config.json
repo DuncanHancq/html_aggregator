@@ -1,0 +1,10 @@
+{
+    "outputFile": "document_aggregate.html",
+    "files": [
+        { "type": "html", "path": "header.html" },
+        { "type": "css", "path": "styles.css" },
+        { "type": "html", "path": "content.html" },
+        { "type": "js", "path": "script.js" },
+        { "type": "html", "path": "footer.html" }
+    ]
+}
